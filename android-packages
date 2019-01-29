@@ -1,8 +1,0 @@
-platform-tools
-platforms;android-27
-build-tools;27.0.0
-extras;android;m2repository
-extras;google;m2repository
-extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.2
-extras;m2repository;com;android;support;constraint;constraint-layout;1.0.2
-extras;google;google_play_services
